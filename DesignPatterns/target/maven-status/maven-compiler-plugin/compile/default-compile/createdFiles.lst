@@ -1,0 +1,8 @@
+singleton\ConfigEmail.class
+builder\Computador.class
+builder\NotebookBuilder.class
+builder\ComputadorDiretor.class
+builder\Programa.class
+builder\PCGamerBuilder.class
+singleton\Main.class
+builder\Computador$Builder.class
