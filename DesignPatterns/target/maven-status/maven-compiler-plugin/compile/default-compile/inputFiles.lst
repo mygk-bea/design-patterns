@@ -15,6 +15,11 @@ C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\a
 C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\abstractMethod\formaIncorreta\Pandeiro.java
 C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\abstractMethod\GeneroMusical.java
 C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\abstractMethod\Main.java
+C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\adapter\IPortuguesBr.java
+C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\adapter\Main.java
+C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\adapter\PessoaBrasil.java
+C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\adapter\PessoaJapao.java
+C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\adapter\TradutorAdapter.java
 C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\builder\Computador.java
 C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\builder\ComputadorDiretor.java
 C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\builder\NotebookBuilder.java

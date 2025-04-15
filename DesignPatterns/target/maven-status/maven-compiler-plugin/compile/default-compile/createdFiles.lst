@@ -1,4 +1,5 @@
 factoryMethod\Mago.class
+adapter\Main.class
 factoryMethod\Ficha.class
 prototype\IncorretoMain.class
 abstractMethod\ContreteInstrumentos\Bateria.class
@@ -13,6 +14,7 @@ singleton\ConfigEmail.class
 abstractMethod\ConcreteFactories\GeneroSamba.class
 solid\EmailService.class
 prototype\IncorretoMain$1.class
+adapter\PessoaBrasil.class
 abstractMethod\Abstracts\Percurssao.class
 abstractMethod\formaIncorreta\Cavaquinho.class
 solid\Pedido.class
@@ -23,10 +25,12 @@ prototype\IncorretoBonecoLego.class
 builder\Computador.class
 builder\ComputadorDiretor.class
 abstractMethod\ConcreteFactories\GeneroRock.class
+adapter\IPortuguesBr.class
 prototype\IncorretoMain$2.class
 abstractMethod\formaIncorreta\Bateria.class
 factoryMethod\Clerigo.class
 abstractMethod\Main.class
+adapter\TradutorAdapter.class
 builder\PCGamerBuilder.class
 builder\Computador$Builder.class
 factoryMethod\FichaMago.class
@@ -45,6 +49,7 @@ builder\Programa.class
 singleton\Main.class
 prototype\IncorretoMain$3.class
 prototype\Main.class
+adapter\PessoaJapao.class
 abstractMethod\formaIncorreta\Guitarra.class
 abstractMethod\formaIncorreta\Main.class
 prototype\BonecoLego.class
