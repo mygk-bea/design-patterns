@@ -9,6 +9,7 @@ solid\Main.class
 factoryMethod\Personagem.class
 abstractMethod\ContreteInstrumentos\Pandeiro.class
 solid\DescontoPorValor.class
+proxy\CaixaForteErrado.class
 factoryMethod\FichaHumano.class
 singleton\ConfigEmail.class
 abstractMethod\ConcreteFactories\GeneroSamba.class
@@ -24,8 +25,11 @@ prototype\BonecoAdvogado.class
 prototype\IncorretoBonecoLego.class
 builder\Computador.class
 builder\ComputadorDiretor.class
+proxy\Cofre.class
+proxy\CaixaForte.class
 abstractMethod\ConcreteFactories\GeneroRock.class
 adapter\IPortuguesBr.class
+proxy\ProxyCofre.class
 prototype\IncorretoMain$2.class
 abstractMethod\formaIncorreta\Bateria.class
 factoryMethod\Clerigo.class
@@ -44,6 +48,7 @@ solid\PedidoErrado.class
 solid\MainErrado.class
 solid\Desconto.class
 factoryMethod\Humano.class
+proxy\Main.class
 factoryMethod\Main.class
 builder\Programa.class
 singleton\Main.class
