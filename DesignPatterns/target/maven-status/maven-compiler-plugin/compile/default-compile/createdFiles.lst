@@ -1,3 +1,4 @@
+bridge\ArmaMartelo.class
 factoryMethod\Mago.class
 adapter\Main.class
 factoryMethod\Ficha.class
@@ -10,9 +11,11 @@ factoryMethod\Personagem.class
 abstractMethod\ContreteInstrumentos\Pandeiro.class
 solid\DescontoPorValor.class
 proxy\CaixaForteErrado.class
+bridge\HomemDeFerro.class
 factoryMethod\FichaHumano.class
 singleton\ConfigEmail.class
 abstractMethod\ConcreteFactories\GeneroSamba.class
+bridge\CapitaoAmerica.class
 solid\EmailService.class
 prototype\IncorretoMain$1.class
 adapter\PessoaBrasil.class
@@ -28,7 +31,9 @@ builder\ComputadorDiretor.class
 proxy\Cofre.class
 proxy\CaixaForte.class
 abstractMethod\ConcreteFactories\GeneroRock.class
+bridge\Thor.class
 adapter\IPortuguesBr.class
+bridge\Heroi.class
 proxy\ProxyCofre.class
 prototype\IncorretoMain$2.class
 abstractMethod\formaIncorreta\Bateria.class
@@ -45,6 +50,8 @@ abstractMethod\formaIncorreta\Pandeiro.class
 abstractMethod\Banda.class
 factoryMethod\FichaClerigo.class
 solid\PedidoErrado.class
+bridge\Arma.class
+bridge\Main.class
 solid\MainErrado.class
 solid\Desconto.class
 factoryMethod\Humano.class
