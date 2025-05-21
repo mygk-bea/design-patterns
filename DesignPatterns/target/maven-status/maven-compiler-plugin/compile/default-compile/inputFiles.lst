@@ -32,6 +32,12 @@ C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\b
 C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\builder\NotebookBuilder.java
 C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\builder\PCGamerBuilder.java
 C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\builder\Programa.java
+C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\composite\C_Biblioteca.java
+C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\composite\C_Estante.java
+C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\composite\C_Secao.java
+C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\composite\ItemBiblioteca.java
+C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\composite\Livro.java
+C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\composite\Main.java
 C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\factoryMethod\Clerigo.java
 C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\factoryMethod\Ficha.java
 C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\factoryMethod\FichaClerigo.java
