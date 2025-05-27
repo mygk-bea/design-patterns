@@ -1,4 +1,5 @@
 bridge\ArmaMartelo.class
+decorator\TelaEmBranco.class
 factoryMethod\Mago.class
 adapter\Main.class
 factoryMethod\Ficha.class
@@ -19,6 +20,7 @@ bridge\CapitaoAmerica.class
 solid\EmailService.class
 prototype\IncorretoMain$1.class
 adapter\PessoaBrasil.class
+decorator\CamadaSombra.class
 abstractMethod\Abstracts\Percurssao.class
 abstractMethod\formaIncorreta\Cavaquinho.class
 solid\Pedido.class
@@ -27,16 +29,20 @@ prototype\BonecoBombeiro.class
 abstractMethod\GeneroMusical.class
 prototype\BonecoAdvogado.class
 prototype\IncorretoBonecoLego.class
+decorator\CamadaLinha.class
 builder\Computador.class
 builder\ComputadorDiretor.class
+decorator\CamadaCor.class
 proxy\Cofre.class
 composite\ItemBiblioteca.class
 proxy\CaixaForte.class
 abstractMethod\ConcreteFactories\GeneroRock.class
 bridge\Thor.class
+decorator\Desenho.class
 adapter\IPortuguesBr.class
 bridge\Heroi.class
 proxy\ProxyCofre.class
+decorator\Main.class
 prototype\IncorretoMain$2.class
 abstractMethod\formaIncorreta\Bateria.class
 factoryMethod\Clerigo.class
@@ -47,6 +53,7 @@ builder\Computador$Builder.class
 factoryMethod\FichaMago.class
 abstractMethod\ContreteInstrumentos\Cavaquinho.class
 abstractMethod\ContreteInstrumentos\Guitarra.class
+decorator\CamadaBrilho.class
 abstractMethod\formaIncorreta\Banda.class
 abstractMethod\formaIncorreta\Pandeiro.class
 abstractMethod\Banda.class
@@ -62,6 +69,7 @@ factoryMethod\Humano.class
 proxy\Main.class
 factoryMethod\Main.class
 builder\Programa.class
+decorator\CamadaDecorator.class
 singleton\Main.class
 prototype\IncorretoMain$3.class
 prototype\Main.class

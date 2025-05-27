@@ -38,6 +38,14 @@ C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\c
 C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\composite\ItemBiblioteca.java
 C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\composite\Livro.java
 C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\composite\Main.java
+C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\decorator\CamadaBrilho.java
+C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\decorator\CamadaCor.java
+C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\decorator\CamadaDecorator.java
+C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\decorator\CamadaLinha.java
+C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\decorator\CamadaSombra.java
+C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\decorator\Desenho.java
+C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\decorator\Main.java
+C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\decorator\TelaEmBranco.java
 C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\factoryMethod\Clerigo.java
 C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\factoryMethod\Ficha.java
 C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\factoryMethod\FichaClerigo.java
