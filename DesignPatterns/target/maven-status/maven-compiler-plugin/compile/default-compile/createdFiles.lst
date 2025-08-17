@@ -2,6 +2,7 @@ bridge\ArmaMartelo.class
 decorator\TelaEmBranco.class
 factoryMethod\Mago.class
 adapter\Main.class
+command\CommandIrParaAndar.class
 factoryMethod\Ficha.class
 prototype\IncorretoMain.class
 abstractMethod\ContreteInstrumentos\Bateria.class
@@ -25,6 +26,7 @@ abstractMethod\Abstracts\Percurssao.class
 abstractMethod\formaIncorreta\Cavaquinho.class
 solid\Pedido.class
 composite\Livro.class
+command\Main.class
 prototype\BonecoBombeiro.class
 abstractMethod\GeneroMusical.class
 prototype\BonecoAdvogado.class
@@ -35,11 +37,13 @@ builder\ComputadorDiretor.class
 decorator\CamadaCor.class
 proxy\Cofre.class
 composite\ItemBiblioteca.class
+command\Elevador.class
 proxy\CaixaForte.class
 abstractMethod\ConcreteFactories\GeneroRock.class
 bridge\Thor.class
 decorator\Desenho.class
 adapter\IPortuguesBr.class
+command\BotaoElevador.class
 bridge\Heroi.class
 proxy\ProxyCofre.class
 decorator\Main.class
@@ -61,6 +65,7 @@ factoryMethod\FichaClerigo.class
 solid\PedidoErrado.class
 bridge\Arma.class
 composite\C_Estante.class
+command\ICommandElevador.class
 bridge\Main.class
 composite\Main.class
 solid\MainErrado.class
