@@ -3,6 +3,7 @@ decorator\TelaEmBranco.class
 factoryMethod\Mago.class
 adapter\Main.class
 command\CommandIrParaAndar.class
+memento\Main.class
 factoryMethod\Ficha.class
 prototype\IncorretoMain.class
 abstractMethod\ContreteInstrumentos\Bateria.class
@@ -46,9 +47,11 @@ adapter\IPortuguesBr.class
 command\BotaoElevador.class
 bridge\Heroi.class
 proxy\ProxyCofre.class
+memento\Memento.class
 decorator\Main.class
 prototype\IncorretoMain$2.class
 abstractMethod\formaIncorreta\Bateria.class
+memento\Jogador.class
 factoryMethod\Clerigo.class
 abstractMethod\Main.class
 adapter\TradutorAdapter.class
@@ -79,6 +82,7 @@ singleton\Main.class
 prototype\IncorretoMain$3.class
 prototype\Main.class
 adapter\PessoaJapao.class
+memento\Historico.class
 abstractMethod\formaIncorreta\Guitarra.class
 abstractMethod\formaIncorreta\Main.class
 prototype\BonecoLego.class
