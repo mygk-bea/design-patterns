@@ -9,6 +9,7 @@ abstractMethod\Abstracts\Cordas.class
 solid\Main.class
 factoryMethod\Personagem.class
 abstractMethod\ContreteInstrumentos\Pandeiro.class
+strategy\Cliente.class
 bridge\HomemDeFerro.class
 factoryMethod\FichaHumano.class
 observer\DashboardInvestor.class
@@ -21,7 +22,9 @@ prototype\BonecoBombeiro.class
 abstractMethod\GeneroMusical.class
 decorator\CamadaLinha.class
 builder\ComputadorDiretor.class
+strategy\DescontoIdoso.class
 decorator\CamadaCor.class
+strategy\Pedido.class
 observer\Stock.class
 command\Elevador.class
 proxy\CaixaForte.class
@@ -34,6 +37,8 @@ memento\Memento.class
 memento\Jogador.class
 factoryMethod\Clerigo.class
 adapter\TradutorAdapter.class
+strategy\DescontoEstudante.class
+strategy\SemDesconto.class
 abstractMethod\formaIncorreta\Banda.class
 factoryMethod\FichaClerigo.class
 composite\C_Estante.class
@@ -54,6 +59,7 @@ command\CommandIrParaAndar.class
 memento\Main.class
 factoryMethod\Ficha.class
 solid\DescontoPorValor.class
+strategy\DescontoStrategy.class
 proxy\CaixaForteErrado.class
 singleton\ConfigEmail.class
 abstractMethod\ConcreteFactories\GeneroSamba.class
@@ -79,6 +85,7 @@ prototype\IncorretoMain$2.class
 abstractMethod\formaIncorreta\Bateria.class
 abstractMethod\Main.class
 builder\PCGamerBuilder.class
+strategy\DescontoAniversario.class
 builder\Computador$Builder.class
 factoryMethod\FichaMago.class
 abstractMethod\ContreteInstrumentos\Cavaquinho.class
@@ -92,6 +99,7 @@ bridge\Arma.class
 command\ICommandElevador.class
 state\EstadoImpressora.class
 factoryMethod\Humano.class
+strategy\Main.class
 proxy\Main.class
 state\EstadoSemPapel.class
 builder\Programa.class

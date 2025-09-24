@@ -100,3 +100,11 @@ C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\s
 C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\state\EstadoTravada.java
 C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\state\Impressora.java
 C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\state\Main.java
+C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\strategy\Cliente.java
+C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\strategy\DescontoAniversario.java
+C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\strategy\DescontoEstudante.java
+C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\strategy\DescontoIdoso.java
+C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\strategy\DescontoStrategy.java
+C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\strategy\Main.java
+C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\strategy\Pedido.java
+C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\strategy\SemDesconto.java
