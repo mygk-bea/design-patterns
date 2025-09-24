@@ -13,6 +13,7 @@ bridge\HomemDeFerro.class
 factoryMethod\FichaHumano.class
 observer\DashboardInvestor.class
 solid\EmailService.class
+state\EstadoTravada.class
 decorator\CamadaSombra.class
 abstractMethod\Abstracts\Percurssao.class
 observer\Main.class
@@ -36,11 +37,13 @@ adapter\TradutorAdapter.class
 abstractMethod\formaIncorreta\Banda.class
 factoryMethod\FichaClerigo.class
 composite\C_Estante.class
+state\Main.class
 bridge\Main.class
 composite\Main.class
 solid\MainErrado.class
 solid\Desconto.class
 factoryMethod\Main.class
+state\EstadoPronta.class
 decorator\CamadaDecorator.class
 singleton\Main.class
 prototype\Main.class
@@ -69,6 +72,8 @@ proxy\Cofre.class
 composite\ItemBiblioteca.class
 bridge\Thor.class
 decorator\Desenho.class
+state\EstadoImprimindo.class
+state\Impressora.class
 decorator\Main.class
 prototype\IncorretoMain$2.class
 abstractMethod\formaIncorreta\Bateria.class
@@ -85,8 +90,10 @@ abstractMethod\Banda.class
 solid\PedidoErrado.class
 bridge\Arma.class
 command\ICommandElevador.class
+state\EstadoImpressora.class
 factoryMethod\Humano.class
 proxy\Main.class
+state\EstadoSemPapel.class
 builder\Programa.class
 prototype\IncorretoMain$3.class
 adapter\PessoaJapao.class

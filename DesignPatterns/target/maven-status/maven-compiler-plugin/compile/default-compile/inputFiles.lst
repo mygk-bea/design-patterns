@@ -93,3 +93,10 @@ C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\s
 C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\solid\MainErrado.java
 C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\solid\Pedido.java
 C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\solid\PedidoErrado.java
+C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\state\EstadoImpressora.java
+C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\state\EstadoImprimindo.java
+C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\state\EstadoPronta.java
+C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\state\EstadoSemPapel.java
+C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\state\EstadoTravada.java
+C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\state\Impressora.java
+C:\Users\Bia\Desktop\Projetos Git\design-patterns\DesignPatterns\src\main\java\state\Main.java
