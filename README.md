@@ -5,6 +5,20 @@ Repo destinado aos padrões de projetos estudados na disciplina MPP.
 DesignPatterns\src\main\java\{padrao escolhido}
 
 ## Padrões estudados
-- Princípios S.O.L.I.D
+- Princípios SOLID
 - Singleton
 - Builder
+- Factory Method
+- Abstract Factory
+- Prototype
+- Adapter
+- Proxy
+- Bridge
+- Composite
+- Decorator
+- Command
+- Memento
+- Observer
+- State
+- Strategy
+- Princípios GRASP
