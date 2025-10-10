@@ -31,6 +31,7 @@ command\Elevador.class
 proxy\CaixaForte.class
 abstractMethod\ConcreteFactories\GeneroRock.class
 adapter\IPortuguesBr.class
+grasp_avaliacao\Pedido.class
 command\BotaoElevador.class
 bridge\Heroi.class
 proxy\ProxyCofre.class
@@ -49,6 +50,7 @@ composite\C_Estante.class
 state\Main.class
 bridge\Main.class
 composite\Main.class
+grasp_avaliacao\Item.class
 solid\MainErrado.class
 solid\Desconto.class
 factoryMethod\Main.class
@@ -77,6 +79,7 @@ adapter\PessoaBrasil.class
 abstractMethod\formaIncorreta\Cavaquinho.class
 solid\Pedido.class
 composite\Livro.class
+grasp_avaliacao\Carrinho.class
 observer\Investor.class
 command\Main.class
 prototype\BonecoAdvogado.class
@@ -88,6 +91,7 @@ grasp\JogoController.class
 bridge\Thor.class
 decorator\Desenho.class
 state\EstadoImprimindo.class
+grasp_avaliacao\Main.class
 state\Impressora.class
 decorator\Main.class
 prototype\IncorretoMain$2.class
@@ -96,6 +100,7 @@ abstractMethod\Main.class
 builder\PCGamerBuilder.class
 strategy\DescontoAniversario.class
 builder\Computador$Builder.class
+grasp_avaliacao\Carrinho$ItemCarrinho.class
 factoryMethod\FichaMago.class
 abstractMethod\ContreteInstrumentos\Cavaquinho.class
 abstractMethod\ContreteInstrumentos\Guitarra.class
